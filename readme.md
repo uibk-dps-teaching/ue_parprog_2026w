@@ -35,6 +35,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2026-11-04 | [4](04)    | Mandelbrot parallelization, cache effects                   |
 | 2026-11-11 | [5](05)    | OpenMP correctness and flush                                |
 | 2026-11-18 | [6](06)    | OpenMP aggregation, loop scheduling and Mandelbrot          |
+| 2026-11-25 | [7](07)    | Dependence Analysis                                         |
 
 ## General Information
 
